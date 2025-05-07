@@ -2,22 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/about/</loc>
-    <lastmod>2025-05-06T20:33:13-04:00</lastmod>
-  </url><url>
     <loc>/en/</loc>
-    <lastmod>2025-05-06T20:33:13-04:00</lastmod>
-  </url><url>
-    <loc>/en/posts/test/</loc>
-    <lastmod>2025-05-06T20:33:13-04:00</lastmod>
-  </url><url>
-    <loc>/en/posts/</loc>
-    <lastmod>2025-05-06T20:33:13-04:00</lastmod>
   </url><url>
     <loc>/en/tags/</loc>
-    <lastmod>2025-05-06T20:33:13-04:00</lastmod>
-  </url><url>
-    <loc>/en/tags/untagged/</loc>
-    <lastmod>2025-05-06T20:33:13-04:00</lastmod>
   </url>
 </urlset>
