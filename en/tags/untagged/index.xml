@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Untagged on I&#39;m just an old badger.</title>
+    <link>www.theoldbadger.me/en/tags/untagged/</link>
+    <description>Recent content in Untagged on I&#39;m just an old badger.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>anOldBadger (aka: Jack Dorsey)</copyright>
+    <lastBuildDate>Tue, 06 May 2025 20:33:13 -0400</lastBuildDate>
+    <atom:link href="www.theoldbadger.me/en/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just testing things out...</title>
+      <link>www.theoldbadger.me/en/posts/test/</link>
+      <pubDate>Tue, 06 May 2025 20:33:13 -0400</pubDate>
+      <guid>www.theoldbadger.me/en/posts/test/</guid>
+      <description>&lt;p&gt;This&amp;hellip; is a test. We&amp;rsquo;ll be back later.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
