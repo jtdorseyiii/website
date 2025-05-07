@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>I&#39;m just an old badger.</title>
-    <link>www.theoldbadger.me/en/</link>
+    <link>/en/</link>
     <description>Recent content on I&#39;m just an old badger.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>anOldBadger (aka: Jack Dorsey)</copyright>
     <lastBuildDate>Tue, 06 May 2025 20:33:13 -0400</lastBuildDate>
-    <atom:link href="www.theoldbadger.me/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>www.theoldbadger.me/en/about/</link>
+      <link>/en/about/</link>
       <pubDate>Tue, 06 May 2025 20:33:13 -0400</pubDate>
-      <guid>www.theoldbadger.me/en/about/</guid>
+      <guid>/en/about/</guid>
       <description>&lt;p&gt;About me&amp;hellip; not much to say&amp;hellip; &lt;em&gt;yet&lt;/em&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Just testing things out...</title>
-      <link>www.theoldbadger.me/en/posts/test/</link>
+      <link>/en/posts/test/</link>
       <pubDate>Tue, 06 May 2025 20:33:13 -0400</pubDate>
-      <guid>www.theoldbadger.me/en/posts/test/</guid>
+      <guid>/en/posts/test/</guid>
       <description>&lt;p&gt;This&amp;hellip; is a test. We&amp;rsquo;ll be back later.&lt;/p&gt;</description>
     </item>
   </channel>

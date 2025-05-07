@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.theoldbadger.me/en/about/</loc>
+    <loc>/en/about/</loc>
     <lastmod>2025-05-06T20:33:13-04:00</lastmod>
   </url><url>
-    <loc>www.theoldbadger.me/en/</loc>
+    <loc>/en/</loc>
     <lastmod>2025-05-06T20:33:13-04:00</lastmod>
   </url><url>
-    <loc>www.theoldbadger.me/en/posts/test/</loc>
+    <loc>/en/posts/test/</loc>
     <lastmod>2025-05-06T20:33:13-04:00</lastmod>
   </url><url>
-    <loc>www.theoldbadger.me/en/posts/</loc>
+    <loc>/en/posts/</loc>
     <lastmod>2025-05-06T20:33:13-04:00</lastmod>
   </url><url>
-    <loc>www.theoldbadger.me/en/tags/</loc>
+    <loc>/en/tags/</loc>
     <lastmod>2025-05-06T20:33:13-04:00</lastmod>
   </url><url>
-    <loc>www.theoldbadger.me/en/tags/untagged/</loc>
+    <loc>/en/tags/untagged/</loc>
     <lastmod>2025-05-06T20:33:13-04:00</lastmod>
   </url>
 </urlset>
